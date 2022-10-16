@@ -1,13 +1,13 @@
-# Super_Mario_Bros
+# Super Mario Bros
 
 Super Mario Bros platformer game remake using Java! ([Demo Video TODO](https://youtu.be/iMbGX3d2MWY))
 
 By [Cameron Beneteau](https://github.com/CameronBeneteau) and [Jack Li](https://github.com/jackli10345)  
 Course: Computer Science ICS4U (Grade 12)  
-Date: June 16th, 2019  
+Date: June 16th, 2018  
 Grade: 100%
 
-![Super Mario Bros Gif TODO](assets/TenaciousTanksGif.gif)
+![Super Mario Bros Gif TODO](assets/SuperMarioBrosGif.gif)
 
 ## Table of Contents
 [1. Intro](#Intro)  

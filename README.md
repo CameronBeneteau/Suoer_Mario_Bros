@@ -7,7 +7,7 @@ Course: Computer Science ICS4U (Grade 12)
 Date: June 16th, 2019  
 Grade: 100%
 
-![Tenacious Tanks Gif TODO](assets/TenaciousTanksGif.gif)
+![Super Mario Bros Gif TODO](assets/TenaciousTanksGif.gif)
 
 ## Table of Contents
 [1. Intro](#Intro)  
@@ -27,8 +27,8 @@ It was made using Java. It utilizes object-oriented programming and other ICS4U 
 
 Check out the demo video for this project [here TODO](https://youtu.be/iMbGX3d2MWY)!
 
-![Tenacious Tanks Main TODO](assets/TenaciousTanksMain.png)  
-![Tenacious Tanks Game TODO](assets/TenaciousTanksGame.png)
+![Super Mario Bros Main TODO](assets/SuperMarioBrosMain.png)  
+![Super Mario Bros Game TODO](assets/SuperMarioBrosGame.png)
 
 ## Environment Setup
 

@@ -11,7 +11,6 @@ import java.util.ArrayList;
 import java.awt.event.*;
 import javax.swing.*;
 import java.awt.geom.*;
-import java.awt.image.*;
 import java.io.*;
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;

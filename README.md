@@ -1,6 +1,6 @@
 # Super Mario Bros
 
-Super Mario Bros platformer game remake using Java! ([Demo Video TODO](https://youtu.be/iMbGX3d2MWY))
+Super Mario Bros platformer game remake using Java! ([Demo Video](https://youtu.be/Vowxk0cRR60))
 
 By [Cameron Beneteau](https://github.com/CameronBeneteau) and [Jack Li](https://github.com/jackli10345)  
 Course: Computer Science ICS4U (Grade 12)  
@@ -25,7 +25,7 @@ It was made using Java. It utilizes object-oriented programming and other ICS4U 
 
 ## Gameplay
 
-Check out the demo video for this project [here TODO](https://youtu.be/iMbGX3d2MWY)!
+Check out the demo video for this project [here](https://youtu.be/Vowxk0cRR60)!
 
 ![Super Mario Bros Main TODO](assets/SuperMarioBrosMain.png)  
 ![Super Mario Bros Game TODO](assets/SuperMarioBrosGame.png)

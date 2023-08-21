@@ -7,7 +7,7 @@ Course: Computer Science ICS4U (Grade 12)
 Date: June 16th, 2018  
 Grade: 100%
 
-![Super Mario Bros Gif TODO](assets/SuperMarioBrosGif.gif)
+![Super Mario Bros Gif](assets/SuperMarioBrosGif.gif)
 
 ## Table of Contents
 [1. Intro](#Intro)  
@@ -27,8 +27,8 @@ It was made using Java. It utilizes object-oriented programming and other ICS4U 
 
 Check out the demo video for this project [here](https://youtu.be/Vowxk0cRR60)!
 
-![Super Mario Bros Main TODO](assets/SuperMarioBrosMain.png)  
-![Super Mario Bros Game TODO](assets/SuperMarioBrosGame.png)
+![Super Mario Bros Main](assets/SuperMarioBrosMain.png)  
+![Super Mario Bros Game](assets/SuperMarioBrosGame.png)
 
 ## Environment Setup
 
